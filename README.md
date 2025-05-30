@@ -1,4 +1,3 @@
 # threejs-journey
-Three.js OpenGL Blender Vite Vercel
 
-This repository contains the exercises completed as part of the Three.js Journey course by Bruno Simon.
+This repository contains the exercises completed by me as part of the [Three.js Journey] (https://threejs-journey.com) course by [Bruno Simon] (https://bruno-simon.com).
