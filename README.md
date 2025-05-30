@@ -13,10 +13,10 @@ Each lesson is developed in a separate branch.
 ```
 npm i && npm i prettier --save-dev && npm pkg set scripts.format="prettier --write ." && npm run format
 ```
-- `Installs` all the lesson dependencies\
-- Adds `prettier` as a development dependency\
-- Adds a `format` script to the package.json file\
-- Runs the `format` script to automatically format the project files with `prettier`\
+- `Installs` all the lesson dependencies
+- Adds `prettier` as a development dependency
+- Adds a `format` script to the package.json file
+- Runs the `format` script to automatically format the project files with `prettier`
 
 ## Deploy
 
