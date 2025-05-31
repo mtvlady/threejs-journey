@@ -4,7 +4,7 @@ This repository contains the exercises completed by me as part of the [Three.js 
 
 ## Chapter 01 - Basics
 
-3. [First Three.js project](http://localhost:5173)
+3. [First Three.js project](https://03-first-threejs-project-l909tkwyc.vercel.app)
 
 ## Setup
 
